@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+
+    <Style id="waypointTrailer">
+      <IconStyle>
+        <Icon>
+          <href>https://s3-us-west-2.amazonaws.com/gp.us.waypointicons/waypointTrailer.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="waypointBlue">
+      <IconStyle>
+        <Icon>
+          <href>https://s3-us-west-2.amazonaws.com/gp.us.waypointicons/waypointBlue.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+
+    <Placemark>
+      <name>Crater Lake</name>
+      <styleUrl>waypointTrailer</styleUrl>
+      <Point>
+        <coordinates>-105.664131,40.075571</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Pawnee Lake</name>
+      <styleUrl>waypointBlue</styleUrl>
+      <Point>
+        <coordinates>-105.645694,40.085218</coordinates>
+      </Point>
+    </Placemark>
+
+  </Document>
+</kml>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="details.xsl"?>
+<gpx
+  version="1.1"
+  creator="BackCountry Navigator on Android"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:topografix="http://www.topografix.com/GPX/Private/TopoGrafix/0/1"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/Private/TopoGrafix/0/1 http://www.topografix.com/GPX/Private/TopoGrafix/0/1/topografix.xsd">
+  <wpt lat="37.76251677" lon="-122.48149749">
+    <ele>62.8</ele>
+    <time>2016-08-30T15:14:42Z</time>
+    <name><![CDATA[Goose Camp]]></name>
+    <cmt><![CDATA[]]></cmt>
+    <desc><![CDATA[]]></desc>
+    <sym><![CDATA[camp_site]]></sym>
+  </wpt>
+  <wpt lat="37.758259629761895" lon="-122.45728254318236">
+    <ele>278</ele>
+    <time>2016-08-30T15:18:04Z</time>
+    <name><![CDATA[Mount Sutro]]></name>
+    <cmt><![CDATA[]]></cmt>
+    <desc><![CDATA[]]></desc>
+    <sym><![CDATA[peak]]></sym>
+  </wpt>
+  <wpt lat="37.77051119893144" lon="-122.4820554256439">
+    <ele>210</ele>
+    <time>2016-08-30T15:21:21Z</time>
+    <name><![CDATA[Lloyd Lake]]></name>
+    <cmt><![CDATA[]]></cmt>
+    <desc><![CDATA[]]></desc>
+    <sym><![CDATA[rapids]]></sym>
+  </wpt>
+  <wpt lat="37.75083306305191" lon="-122.48361110687254">
+    <ele>117</ele>
+    <time>2016-08-30T15:23:33Z</time>
+    <name><![CDATA[Sunset Reservoir]]></name>
+    <cmt><![CDATA[]]></cmt>
+    <desc><![CDATA[]]></desc>
+    <sym><![CDATA[rapids]]></sym>
+  </wpt>
+</gpx>

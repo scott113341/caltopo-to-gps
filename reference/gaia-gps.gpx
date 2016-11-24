@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="GaiaGPS" version="1.1"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="40.887375" lon="-123.024506">
+    <ele>955.9</ele>
+    <time>2016-11-11T03:25:23Z</time>
+    <name>Canyon Creek Trailhead</name>
+  </wpt>
+  <wpt lat="40.884743" lon="-123.004578">
+    <time>2016-11-24T00:42:31Z</time>
+    <name>Little East Fork Canyon Creek, Trinity County, CA, USA</name>
+  </wpt>
+  <wpt lat="40.894001" lon="-123.006775">
+    <time>2016-11-24T00:42:31Z</time>
+    <name>Chloride Mine, Trinity County, CA, USA</name>
+  </wpt>
+  <wpt lat="40.889587" lon="-123.013870">
+    <time>2016-11-24T00:42:31Z</time>
+    <name>Bear Creek, Trinity County, CA, USA</name>
+  </wpt>
+  <wpt lat="40.890663" lon="-123.020340">
+    <time>2016-11-24T00:42:31Z</time>
+    <name>Bear Creek, Trinity County, CA, USA</name>
+  </wpt>
+  <wpt lat="40.897102" lon="-123.019127">
+    <time>2016-11-24T00:42:31Z</time>
+    <name>Bear Creek, Trinity County, CA, USA</name>
+  </wpt>
+  <rte>
+    <name>Yolo Route</name>
+    <rtept lat="40.896835" lon="-123.019177">
+      <ele>1159.3</ele>
+    </rtept>
+    <rtept lat="40.896568" lon="-123.019228">
+      <ele>1157.0</ele>
+    </rtept>
+    <rtept lat="40.896301" lon="-123.019278">
+      <ele>1156.9</ele>
+    </rtept>
+    <rtept lat="40.896034" lon="-123.019328">
+      <ele>1155.4</ele>
+    </rtept>
+    <rtept lat="40.895767" lon="-123.019379">
+      <ele>1154.1</ele>
+    </rtept>
+    <rtept lat="40.895500" lon="-123.019429">
+      <ele>1155.1</ele>
+    </rtept>
+    <rtept lat="40.895233" lon="-123.019479">
+      <ele>1151.5</ele>
+    </rtept>
+    <rtept lat="40.894966" lon="-123.019529">
+      <ele>1144.7</ele>
+    </rtept>
+    <rtept lat="40.894698" lon="-123.019580">
+      <ele>1135.5</ele>
+    </rtept>
+    <rtept lat="40.894431" lon="-123.019630">
+      <ele>1127.4</ele>
+    </rtept>
+    <rtept lat="40.894164" lon="-123.019680">
+      <ele>1114.1</ele>
+    </rtept>
+    <rtept lat="40.893897" lon="-123.019731">
+      <ele>1101.1</ele>
+    </rtept>
+    <rtept lat="40.893630" lon="-123.019781">
+      <ele>1091.3</ele>
+    </rtept>
+    <rtept lat="40.893363" lon="-123.019831">
+      <ele>1085.1</ele>
+    </rtept>
+    <rtept lat="40.893096" lon="-123.019882">
+      <ele>1079.3</ele>
+    </rtept>
+    <rtept lat="40.892829" lon="-123.019932">
+      <ele>1068.6</ele>
+    </rtept>
+    <rtept lat="40.892562" lon="-123.019982">
+      <ele>1055.8</ele>
+    </rtept>
+    <rtept lat="40.892295" lon="-123.020033">
+      <ele>1044.9</ele>
+    </rtept>
+    <rtept lat="40.892027" lon="-123.020083">
+      <ele>1033.0</ele>
+    </rtept>
+    <rtept lat="40.891760" lon="-123.020133">
+      <ele>1018.4</ele>
+    </rtept>
+    <rtept lat="40.891493" lon="-123.020184">
+      <ele>1007.4</ele>
+    </rtept>
+    <rtept lat="40.891226" lon="-123.020234">
+      <ele>1008.7</ele>
+    </rtept>
+    <rtept lat="40.890959" lon="-123.020284">
+      <ele>1022.4</ele>
+    </rtept>
+    <rtept lat="40.890692" lon="-123.020335">
+      <ele>1037.8</ele>
+    </rtept>
+    <rtept lat="40.890663" lon="-123.020340">
+      <ele>1039.1</ele>
+      <name>Bear Creek, Trinity County, CA, USA</name>
+    </rtept>
+    <rtept lat="40.890663" lon="-123.020340">
+      <ele>1039.1</ele>
+      <name>Bear Creek, Trinity County, CA, USA</name>
+    </rtept>
+    <rtept lat="40.890605" lon="-123.019991">
+      <ele>1050.0</ele>
+    </rtept>
+    <rtept lat="40.890547" lon="-123.019643">
+      <ele>1064.8</ele>
+    </rtept>
+    <rtept lat="40.890489" lon="-123.019294">
+      <ele>1077.7</ele>
+    </rtept>
+    <rtept lat="40.890431" lon="-123.018946">
+      <ele>1091.8</ele>
+    </rtept>
+    <rtept lat="40.890373" lon="-123.018597">
+      <ele>1109.5</ele>
+    </rtept>
+    <rtept lat="40.890315" lon="-123.018249">
+      <ele>1126.0</ele>
+    </rtept>
+    <rtept lat="40.890257" lon="-123.017900">
+      <ele>1141.8</ele>
+    </rtept>
+    <rtept lat="40.890200" lon="-123.017551">
+      <ele>1162.5</ele>
+    </rtept>
+    <rtept lat="40.890142" lon="-123.017203">
+      <ele>1181.2</ele>
+    </rtept>
+    <rtept lat="40.890084" lon="-123.016854">
+      <ele>1196.9</ele>
+    </rtept>
+    <rtept lat="40.890026" lon="-123.016506">
+      <ele>1209.1</ele>
+    </rtept>
+    <rtept lat="40.889968" lon="-123.016157">
+      <ele>1218.7</ele>
+    </rtept>
+    <rtept lat="40.889910" lon="-123.015809">
+      <ele>1234.0</ele>
+    </rtept>
+    <rtept lat="40.889852" lon="-123.015460">
+      <ele>1250.4</ele>
+    </rtept>
+    <rtept lat="40.889794" lon="-123.015112">
+      <ele>1268.1</ele>
+    </rtept>
+    <rtept lat="40.889736" lon="-123.014763">
+      <ele>1288.4</ele>
+    </rtept>
+    <rtept lat="40.889678" lon="-123.014414">
+      <ele>1312.9</ele>
+    </rtept>
+    <rtept lat="40.889620" lon="-123.014066">
+      <ele>1335.2</ele>
+    </rtept>
+    <rtept lat="40.889587" lon="-123.013870">
+      <ele>1348.1</ele>
+      <name>Bear Creek, Trinity County, CA, USA</name>
+    </rtept>
+    <rtept lat="40.889587" lon="-123.013870">
+      <ele>1348.1</ele>
+      <name>Bear Creek, Trinity County, CA, USA</name>
+    </rtept>
+    <rtept lat="40.889759" lon="-123.013595">
+      <ele>1362.5</ele>
+    </rtept>
+    <rtept lat="40.889930" lon="-123.013319">
+      <ele>1369.6</ele>
+    </rtept>
+    <rtept lat="40.890102" lon="-123.013044">
+      <ele>1371.5</ele>
+    </rtept>
+    <rtept lat="40.890273" lon="-123.012768">
+      <ele>1368.6</ele>
+    </rtept>
+    <rtept lat="40.890445" lon="-123.012492">
+      <ele>1360.4</ele>
+    </rtept>
+    <rtept lat="40.890616" lon="-123.012217">
+      <ele>1355.9</ele>
+    </rtept>
+    <rtept lat="40.890787" lon="-123.011941">
+      <ele>1354.6</ele>
+    </rtept>
+    <rtept lat="40.890959" lon="-123.011666">
+      <ele>1352.2</ele>
+    </rtept>
+    <rtept lat="40.891130" lon="-123.011390">
+      <ele>1347.7</ele>
+    </rtept>
+    <rtept lat="40.891302" lon="-123.011114">
+      <ele>1345.3</ele>
+    </rtept>
+    <rtept lat="40.891473" lon="-123.010839">
+      <ele>1349.0</ele>
+    </rtept>
+    <rtept lat="40.891645" lon="-123.010563">
+      <ele>1355.0</ele>
+    </rtept>
+    <rtept lat="40.891816" lon="-123.010288">
+      <ele>1352.7</ele>
+    </rtept>
+    <rtept lat="40.891987" lon="-123.010012">
+      <ele>1347.8</ele>
+    </rtept>
+    <rtept lat="40.892159" lon="-123.009736">
+      <ele>1340.6</ele>
+    </rtept>
+    <rtept lat="40.892330" lon="-123.009461">
+      <ele>1333.4</ele>
+    </rtept>
+    <rtept lat="40.892502" lon="-123.009185">
+      <ele>1320.7</ele>
+    </rtept>
+    <rtept lat="40.892673" lon="-123.008910">
+      <ele>1306.1</ele>
+    </rtept>
+    <rtept lat="40.892845" lon="-123.008634">
+      <ele>1298.0</ele>
+    </rtept>
+    <rtept lat="40.893016" lon="-123.008359">
+      <ele>1302.7</ele>
+    </rtept>
+    <rtept lat="40.893187" lon="-123.008083">
+      <ele>1314.8</ele>
+    </rtept>
+    <rtept lat="40.893359" lon="-123.007807">
+      <ele>1324.8</ele>
+    </rtept>
+    <rtept lat="40.893530" lon="-123.007532">
+      <ele>1336.6</ele>
+    </rtept>
+    <rtept lat="40.893702" lon="-123.007256">
+      <ele>1351.7</ele>
+    </rtept>
+    <rtept lat="40.893873" lon="-123.006980">
+      <ele>1371.4</ele>
+    </rtept>
+    <rtept lat="40.894001" lon="-123.006775">
+      <ele>1383.5</ele>
+      <name>Chloride Mine, Trinity County, CA, USA</name>
+    </rtept>
+    <rtept lat="40.894001" lon="-123.006775">
+      <ele>1383.5</ele>
+      <name>Chloride Mine, Trinity County, CA, USA</name>
+    </rtept>
+    <rtept lat="40.893735" lon="-123.006712">
+      <ele>1381.3</ele>
+    </rtept>
+    <rtept lat="40.893470" lon="-123.006649">
+      <ele>1379.8</ele>
+    </rtept>
+    <rtept lat="40.893204" lon="-123.006586">
+      <ele>1379.8</ele>
+    </rtept>
+    <rtept lat="40.892939" lon="-123.006523">
+      <ele>1384.3</ele>
+    </rtept>
+    <rtept lat="40.892673" lon="-123.006460">
+      <ele>1390.8</ele>
+    </rtept>
+    <rtept lat="40.892408" lon="-123.006397">
+      <ele>1396.7</ele>
+    </rtept>
+    <rtept lat="40.892142" lon="-123.006334">
+      <ele>1405.6</ele>
+    </rtept>
+    <rtept lat="40.891877" lon="-123.006271">
+      <ele>1414.3</ele>
+    </rtept>
+    <rtept lat="40.891611" lon="-123.006208">
+      <ele>1425.1</ele>
+    </rtept>
+    <rtept lat="40.891345" lon="-123.006145">
+      <ele>1446.4</ele>
+    </rtept>
+    <rtept lat="40.891080" lon="-123.006082">
+      <ele>1470.1</ele>
+    </rtept>
+    <rtept lat="40.890814" lon="-123.006019">
+      <ele>1493.1</ele>
+    </rtept>
+    <rtept lat="40.890549" lon="-123.005956">
+      <ele>1513.0</ele>
+    </rtept>
+    <rtept lat="40.890283" lon="-123.005892">
+      <ele>1531.9</ele>
+    </rtept>
+    <rtept lat="40.890018" lon="-123.005829">
+      <ele>1554.6</ele>
+    </rtept>
+    <rtept lat="40.889752" lon="-123.005766">
+      <ele>1575.2</ele>
+    </rtept>
+    <rtept lat="40.889487" lon="-123.005703">
+      <ele>1595.7</ele>
+    </rtept>
+    <rtept lat="40.889221" lon="-123.005640">
+      <ele>1615.7</ele>
+    </rtept>
+    <rtept lat="40.888955" lon="-123.005577">
+      <ele>1637.1</ele>
+    </rtept>
+    <rtept lat="40.888690" lon="-123.005514">
+      <ele>1667.2</ele>
+    </rtept>
+    <rtept lat="40.888424" lon="-123.005451">
+      <ele>1689.7</ele>
+    </rtept>
+    <rtept lat="40.888159" lon="-123.005388">
+      <ele>1696.9</ele>
+    </rtept>
+    <rtept lat="40.887893" lon="-123.005325">
+      <ele>1693.1</ele>
+    </rtept>
+    <rtept lat="40.887628" lon="-123.005262">
+      <ele>1683.9</ele>
+    </rtept>
+    <rtept lat="40.887362" lon="-123.005199">
+      <ele>1671.3</ele>
+    </rtept>
+    <rtept lat="40.887097" lon="-123.005136">
+      <ele>1658.1</ele>
+    </rtept>
+    <rtept lat="40.886831" lon="-123.005073">
+      <ele>1648.2</ele>
+    </rtept>
+    <rtept lat="40.886565" lon="-123.005010">
+      <ele>1642.3</ele>
+    </rtept>
+    <rtept lat="40.886300" lon="-123.004947">
+      <ele>1641.1</ele>
+    </rtept>
+    <rtept lat="40.886034" lon="-123.004884">
+      <ele>1641.6</ele>
+    </rtept>
+    <rtept lat="40.885769" lon="-123.004821">
+      <ele>1640.4</ele>
+    </rtept>
+    <rtept lat="40.885503" lon="-123.004758">
+      <ele>1635.1</ele>
+    </rtept>
+    <rtept lat="40.885238" lon="-123.004695">
+      <ele>1631.0</ele>
+    </rtept>
+    <rtept lat="40.884972" lon="-123.004632">
+      <ele>1628.5</ele>
+    </rtept>
+    <rtept lat="40.884743" lon="-123.004578">
+      <ele>1623.7</ele>
+      <name>Little East Fork Canyon Creek, Trinity County, CA, USA</name>
+    </rtept>
+  </rte>
+</gpx>

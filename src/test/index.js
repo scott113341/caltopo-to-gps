@@ -1,3 +1,5 @@
 import 'source-map-support/register';
 
-import './something.js';
+import './format.js';
+import './caltopo/index.js';
+import './formats/index.js';

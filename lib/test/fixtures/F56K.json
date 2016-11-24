@@ -1,0 +1,86 @@
+{
+  "timestamp": "1479952101587",
+  "Shape": [],
+  "Folder": [],
+  "CustomLayer": [],
+  "LocatorGroup": [],
+  "Locator": [],
+  "MapConfig": {
+    "base": "f",
+    "layers": [
+      "r2",
+      "usi"
+    ],
+    "opacity": [
+      0.25,
+      0.4
+    ],
+    "alphas": [
+      "sf"
+    ]
+  },
+  "ConfiguredLayer": [],
+  "GeoRef": [],
+  "Marker": [
+    {
+      "comments": "commentz",
+      "id": 0,
+      "label": "red",
+      "position": {
+        "id": 23773245,
+        "lat": 39.46486419970058,
+        "lng": -106.64050943389896
+      },
+      "updated": "1479952049000",
+      "url": "#FF0000"
+    },
+    {
+      "comments": "",
+      "id": 1,
+      "label": "camp",
+      "position": {
+        "id": 23775758,
+        "lat": 39.458817480588394,
+        "lng": -106.64050943389896
+      },
+      "updated": "1479952056000",
+      "url": "https://s3-us-west-2.amazonaws.com/gp.us.waypointicons/waypointTrailer.png"
+    },
+    {
+      "comments": "",
+      "id": 2,
+      "label": "ski",
+      "position": {
+        "id": 23775770,
+        "lat": 39.461335630187776,
+        "lng": -106.64295560852054
+      },
+      "updated": "1479952041000",
+      "url": "xc"
+    },
+    {
+      "comments": "",
+      "id": 3,
+      "label": "blue ring",
+      "position": {
+        "id": 23775774,
+        "lat": 39.459678963071944,
+        "lng": -106.63746244445804
+      },
+      "updated": "1479952075000",
+      "url": "c:target,0000FF"
+    },
+    {
+      "comments": "",
+      "id": 4,
+      "label": "green gg",
+      "position": {
+        "id": 23775777,
+        "lat": 39.46163382608112,
+        "lng": -106.6359604074097
+      },
+      "updated": "1479952096000",
+      "url": "t:GG,00CD00"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    
+    <Style id="style0">
+      <IconStyle>
+        <Icon>
+          <href>https://caltopo.com/resource/imagery/icons/circle/FF0000.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+  
+    <Style id="style1">
+      <IconStyle>
+        <Icon>
+          <href>https://s3-us-west-2.amazonaws.com/gp.us.waypointicons/waypointTrailer.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+  
+    <Style id="style2">
+      <IconStyle>
+        <Icon>
+          <href>https://s3-us-west-1.amazonaws.com/caltopo/static/images/icons/xc.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+  
+    <Style id="style3">
+      <IconStyle>
+        <Icon>
+          <href>https://caltopo.com/resource/imagery/icons/target/0000FF.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+  
+    <Style id="style4">
+      <IconStyle>
+        <Icon>
+          <href>https://caltopo.com/resource/imagery/icons/text/GG.png?color=00CD00</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+  
+    
+    <Placemark>
+      <name>red</name>
+      <styleUrl>style0</styleUrl>
+      <Point>
+        <coordinates>-106.64050943389896,39.46486419970058</coordinates>
+      </Point>
+    </Placemark>  
+  
+    <Placemark>
+      <name>camp</name>
+      <styleUrl>style1</styleUrl>
+      <Point>
+        <coordinates>-106.64050943389896,39.458817480588394</coordinates>
+      </Point>
+    </Placemark>  
+  
+    <Placemark>
+      <name>ski</name>
+      <styleUrl>style2</styleUrl>
+      <Point>
+        <coordinates>-106.64295560852054,39.461335630187776</coordinates>
+      </Point>
+    </Placemark>  
+  
+    <Placemark>
+      <name>blue ring</name>
+      <styleUrl>style3</styleUrl>
+      <Point>
+        <coordinates>-106.63746244445804,39.459678963071944</coordinates>
+      </Point>
+    </Placemark>  
+  
+    <Placemark>
+      <name>green gg</name>
+      <styleUrl>style4</styleUrl>
+      <Point>
+        <coordinates>-106.6359604074097,39.46163382608112</coordinates>
+      </Point>
+    </Placemark>  
+  
+  </Document>
+</kml>

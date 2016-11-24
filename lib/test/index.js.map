@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/test/index.js"],"names":[],"mappings":";;AAAA;;AAEA;;AACA;;AACA","file":"index.js","sourcesContent":["import 'source-map-support/register';\n\nimport './format.js';\nimport './caltopo/index.js';\nimport './formats/index.js';\n"]}

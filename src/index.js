@@ -1,1 +1,1 @@
-import something from './something.js';
+export default from './format.js';
