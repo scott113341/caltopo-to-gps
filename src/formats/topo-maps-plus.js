@@ -31,7 +31,6 @@ export default function format (calTopoJson) {
 </kml>`.trim();
 }
 
-
 function style (style) {
   return `
     <Style id="${style.id}">

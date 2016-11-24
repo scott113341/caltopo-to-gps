@@ -1,1 +1,3 @@
-export default from './format.js';
+import format from './format.js';
+
+export default format;
